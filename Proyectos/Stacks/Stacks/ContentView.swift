@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Stacks
 //
-//  Created by Maria Teresa Jimenez on 27/02/21.
+//  Created by Ignacio Garcia on 27/02/21.
 //
 
 import SwiftUI
