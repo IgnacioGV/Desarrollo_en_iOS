@@ -99,5 +99,18 @@ objetoEmpleado.curp = "HSHGGH220932"
 
 print(objetoEmpleado.datosEmpleado())
 
+//Guard --> es un if falso
+
+let esMujer: Bool = true
+
+func revisaGenero(){
+    
+    guard esMujer else {
+        print("Genero: Hombre")
+        return
+    }
+}
+
+revisaGenero()
 
 
